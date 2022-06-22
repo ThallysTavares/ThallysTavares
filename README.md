@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**ThallysTavares/ThallysTavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> What's Up <h1>
+  <div align="center">
+  <a href="https://github.com/ThallysTavares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thallystavares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallystavares&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+    
+ 
+  <img align="center" alt="TT-Java" height="130" width="160" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+  <img align="center" alt="TT-Python" height="130" width="160" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+</div>
+  
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
